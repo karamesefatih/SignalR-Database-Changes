@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HC9EfiZ7FPZOINKJ6OnaUOuiFW8vVWdZ+a0Of1KcDEU=",
+  "Source": "SignalR-Backend",
+  "BasePath": "_content/SignalR-Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignalR-Backend.props" />
+</Project>
